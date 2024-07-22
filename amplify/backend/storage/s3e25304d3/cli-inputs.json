@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3e25304d3",
+  "policyUUID": "e25304d3",
+  "bucketName": "file-upload-react",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
